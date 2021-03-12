@@ -55,6 +55,12 @@
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>ICE 4 would like to access your Pictures Library</string>
+	<key>NSCameraUsageDescription</key>
+	<string>ICE 4 would like to access your Camera</string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>ICE 4 would like to access your Microphone</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
