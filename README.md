@@ -1,2 +1,2 @@
-# MAPD724_ICE4
+# Simple Image Picker Activity
 UICamera &amp; UIImagePicker 
