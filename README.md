@@ -2,4 +2,3 @@
 UICamera &amp; UIImagePicker 
 
 ![](UIImagePicker.gif)
-![](elon.gif)
